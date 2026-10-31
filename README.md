@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/exposure-monitor/actions/workflows/python-checks.yml/badge.svg)
+
 # Exposure Monitor
 
 Review asset-inventory notes for exposure markers.
